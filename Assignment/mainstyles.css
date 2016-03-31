@@ -1,0 +1,40 @@
+@charset "utf-8";
+a{
+	text-decoration: none;
+	margin-left: 15px;
+}
+h1  {
+	color: #F49712;
+}
+body {
+	background-color: #2F2F2F;
+}
+main {
+	float: left;
+	min-width: 0px;
+	max-width: 65%;
+	color: #FFFFFF;
+	margin-left: 20px;
+}
+.Announcements {
+	float: right;
+	max-width: 30%;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #F49712;
+	padding-bottom: auto;
+	padding-top: auto;
+}
+.Header {
+	text-align:center;
+}
+a {
+	border:thin ridge;
+	text-decoration:none;
+	padding-right: 5px;
+	padding-left: 5px;
+	color:orange;
+}
+a:hover { 
+    background-color: white;
+}
